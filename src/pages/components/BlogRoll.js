@@ -58,7 +58,7 @@ export default () => (
                 ) {
                     edges {
                         node {
-                            excerpt(prunelength: 400)
+                            excerpt(pruneLength: 400)
                             id
                             frontmatter {
                                 path
