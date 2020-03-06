@@ -6,6 +6,7 @@ export default () => {
         <>
             Hello World!
             <p><Link to="/blog">View Blog</Link></p>
+            <p><Link to="/account">My Account</Link></p>
         </>
     )
 }
